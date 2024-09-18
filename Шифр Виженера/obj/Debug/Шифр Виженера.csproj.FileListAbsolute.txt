@@ -1,0 +1,10 @@
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.exe.config
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.exe
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\bin\Debug\Шифр Виженера.pdb
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.csproj.AssemblyReference.cache
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр_Виженера.Form1.resources
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр_Виженера.Properties.Resources.resources
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.csproj.GenerateResource.cache
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.csproj.CoreCompileInputs.cache
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.exe
+C:\Users\Keisuke Baji\source\repos\Шифр Виженера\Шифр Виженера\obj\Debug\Шифр Виженера.pdb
